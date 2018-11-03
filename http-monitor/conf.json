@@ -1,0 +1,14 @@
+{
+    "logName" : "log.txt",
+    "url": "http://www.chsobin.xin",
+    "try_cnt": 5,
+    "try_interval": 5,
+    "minutes": 1,
+    "mailConf":{
+        "smtpServer":"smtp.163.com",
+        "SSLPort": 465,
+        "fromEmail":"example@163.com",
+        "fromEmailPassword" : "example",
+        "toEmail" : "example@163.com"
+    }
+}
